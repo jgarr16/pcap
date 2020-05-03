@@ -1,0 +1,6 @@
+original,ans,Text 1,Text 2,Wrong Answer 1,Wrong Answer 2,Wrong Answer 3,Category 1,Extra Info
+
+original,
+
+
+ Ben's system was infected by malicious code that modified the operating system to allow the malicious code author to gain access to his files. What type of exploit did this attacker engage in? ||A. Escalation of privilege |B. Back door |C. Rootkit |D. Buffer overflow |E. |F. |G. |H. Back doors are undocumented command sequences that allow individuals with knowledge of the back door to bypass normal access restrictions.,B, Ben's system was infected by malicious code that modified the operating system to allow the malicious code author to gain access to his files. What type of exploit did this attacker engage in? ,Back door ,Escalation of privilege ,Rootkit ,Buffer overflow ,, Back doors are undocumented command sequences that allow individuals with knowledge of the back door to bypass normal access restrictions.
